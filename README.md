@@ -16,19 +16,15 @@ This is an advanced and interactive AI-powered mock interview platform designed 
 ## Getting Started
 To get started with the AI-Powered Mock Interview Platform, follow these steps:
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/modamaan/Ai-mock-Interview.git
-
-2. Navigate to the project directory:
+1. Navigate to the project directory:
    ```bash
    cd ai-mock-interview
 
-3. Install dependencies by running: `npm install` or `yarn install`
+2. Install dependencies by running: `npm install` or `yarn install`
 
-4. Start the Server `npm run dev` or `yarn dev`
+3. Start the Server `npm run dev` or `yarn dev`
 
-5. Access the Application: Open your browser and go to http://localhost:3000 to access the application.
+4. Access the Application: Open your browser and go to http://localhost:3000 to access the application.
 
 ## Technologies Used
 - Next.js: A React framework for building server-side rendered and static web applications.
@@ -45,10 +41,6 @@ To use the AI-Powered Mock Interview Platform, follow these guidelines:
 - Receive Feedback: After completing the interview, get detailed feedback and insights to improve.
 - Review Recent Interviews: Access your most recent interviews directly from the home page for quick review and continued improvement.
 
-## Feedback
-
-If you have any feedback, please reach me at [mohamedamaan319@gmail.com](mailto:mohamedamaan319@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamedamaan319/).
-
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
@@ -59,39 +51,10 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Submit a pull request to the main repository.
 
 
-## Support
 
-Show your support by 🌟 the project!!
-=======
-# 🧑‍💻 AI Mock Interview App  
 
-An AI-powered **Mock Interview Platform** where users can:  
-- Login securely using **Clerk** authentication  
-- Enter details like **Tech Stack, Experience, Role**  
-- Get **interview questions generated from Gemini API**  
-- Record / type answers  
-- Receive **AI-driven feedback & rating** at the end  
-- Store all interview history in a **Drizzle ORM + Postgres (Neon)** database  
 
-Deployed seamlessly on **Vercel** 🚀  
 
----
 
-## ✨ Features  
-- 🔐 Authentication with Clerk  
-- 🎤 AI-generated interview questions using Gemini API  
-- 📊 User answers stored in Postgres via Drizzle ORM  
-- ⭐ Automatic feedback + rating (out of 5) after interview  
-- 📝 Interview history tracking  
-- 🌐 Deployment ready for Vercel  
 
----
 
-## 🛠️ Tech Stack  
-- **Frontend** → Next.js + React  
-- **Backend** → Next.js API Routes  
-- **Auth** → Clerk  
-- **Database** → Drizzle ORM + Neon Postgres  
-- **AI** → Gemini API  
-- **Deployment** → Vercel  
->>>>>>> f3357aab29269d1683006b87f91fc17a3271f146
