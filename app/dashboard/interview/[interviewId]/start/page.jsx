@@ -1,4 +1,4 @@
-"use client";
+ "use client";
 import { db } from "@/utils/db";
 import { MockInterview } from "@/utils/schema";
 import { eq } from "drizzle-orm";
